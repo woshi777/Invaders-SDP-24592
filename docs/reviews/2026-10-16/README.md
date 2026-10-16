@@ -11,7 +11,7 @@ The existing wave-list checks also passed on each PR. Separate GUI runs passed 2
 
 Synthetic profiles, achievement events and zero-lives fixtures make the GUI checks repeatable. These are not manual full-game completions. Audible BGM/SFX and natural difficulty calibration remain outstanding. See the reports for the `java.exe` test portability limitation and the exact evidence boundaries.
 
-The two `PR*-comment.md` files are publication-ready comment bodies. Their presence in this branch does not establish that they were posted to the team PRs.
+The two `PR*-comment.md` files are publication-ready comment bodies. Both API publication attempts failed with HTTP 403, so **the comments have not been posted**. See [publication status and the exact remaining action](publication-status.md).
 
 ## Reproduce the existing suites
 

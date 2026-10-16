@@ -1,7 +1,8 @@
 {
   "PR10-comment.md": "5b404523c5a3fc15b55eb9a152c2f5c193a0f349a86d9065f285b589aef89dd9",
   "PR11-comment.md": "46d781d7cf1199951664dd03f3f0f32ce366a3871631710a300a8f9940184c02",
-  "README.md": "b0af1097252c1478be1f8eef3bb344e4e57a76a64052bab892b67fd8c7f7a8d3",
+  "README.md": "eb7992af20897c274745bb3fee77b50259eaa71f468b870276ef2583886aa279",
+  "comment-publication-results.json": "6ad23860dd7d16d6eb38101c97ab59e262f0af185d2bc3669581ee751a8b172d",
   "helpers/LiveUiReview.java": "b4bd840dff923ad03a8f86378f3ba054483c8504c3e3f858cf4e5a6176baef3e",
   "helpers/RecordsBufferCapture.java": "ca6db481da6f2016abb23024275770a723c71a0037aa2315bea87abb8b90d4a7",
   "helpers/RecordsVisualCapture.java": "d6506252539bbd403d1f72b8d297213c1ae54b0036c8b9f12e4d5ec0b36f599c",
@@ -56,5 +57,6 @@
   "pr11/screenshots/records-empty-buffer.png": "a43457dbc7c587983b2518c93ed669519437b872d174b0db650984598f484e20",
   "pr11/screenshots/records-empty.png": "a43457dbc7c587983b2518c93ed669519437b872d174b0db650984598f484e20",
   "pr11/screenshots/records-populated.png": "19b7b56bbcaf72975e3ba2838c44c8e3f47b9fbd7ce4de6c655a0ea791dc8f58",
-  "pr11/screenshots/settings-menu.png": "135efaefa17f25ab9f320614270a13a8bdadd89363d6377fea6efa1c438d8524"
+  "pr11/screenshots/settings-menu.png": "135efaefa17f25ab9f320614270a13a8bdadd89363d6377fea6efa1c438d8524",
+  "publication-status.md": "0783b29f20c93872a707a2ff9d8145c50bca47d027d61ededfc282c728ef4906"
 }

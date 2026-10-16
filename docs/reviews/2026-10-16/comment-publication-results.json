@@ -1,0 +1,14 @@
+[
+  {
+    "pr": 10,
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Post \"https://api.github.com/repos/clover0409/Invaders-SDP-24592/issues/10/comments\": Forbidden"
+  },
+  {
+    "pr": 11,
+    "exit_code": 1,
+    "stdout": "",
+    "stderr": "Post \"https://api.github.com/repos/clover0409/Invaders-SDP-24592/issues/11/comments\": Forbidden"
+  }
+]
