@@ -1,0 +1,142 @@
+Oct 16, 2026 7:03:09 AM java.util.prefs.FileSystemPreferences$1 run
+INFO: Created user preferences directory.
+[INFO|7:03:09]: Audio system initialized. 
+[INFO|7:03:09]: Applied saved audio settings. 
+[INFO|7:03:09]: Started loading resources. 
+[INFO|7:03:09]: Finished loading the sprites. 
+[INFO|7:03:09]: Finished loading the fonts. 
+[WARNING|7:03:09]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:03:09]: Starting 448x520 title screen at 60 fps. 
+[WARNING|7:03:12]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key I held 107 ms; stateChanged=true
+[INFO|7:03:12]: Closing title screen. 
+[INFO|7:03:12]: Starting 448x520 infinite game screen at 60 fps. 
+[WARNING|7:03:12]: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+PASS: normal start countdown completes before movement test (true)
+PASS: game running in InfiniteGameScreen
+PASS: FIFO notice starts with First Contact (true)
+Robot key Right held 109 ms; stateChanged=true
+[INFO|7:03:15]: Hit by enemy bullet, 2 lives remaining. 
+PASS: movement continues while achievement notice is visible (true)
+Robot key Space held 819 ms; stateChanged=true
+PASS: shooting continues while achievement notice is visible (true)
+PASS: second queued notice is Ace Pilot (true)
+PASS: first notice lasts about three seconds: 3008 ms (true)
+PASS: third queued notice is Still Flying (true)
+[INFO|7:03:21]: Infinite mode ended with a score of 0 
+[INFO|7:03:21]: Closing infinite game screen. 
+[INFO|7:03:22]: Starting 448x520 score screen at 60 fps, with a score of 0, 1 bullets shot and 0 ships destroyed. 
+[INFO|7:03:22]: Loading default high scores. 
+[WARNING|7:03:22]: Failed to play BGM: audio/bgm/music_end_defeat.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+PASS: summary retains three gameplay unlocks plus First Flight (true)
+PASS: one completed run reaches Records (true)
+[WARNING|7:03:23]: Failed to play SFX: audio/sfx/name_cursor_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Right held 13 ms; stateChanged=true
+PASS: high-score name cursor still moves (true)
+[WARNING|7:03:26]: Failed to play SFX: audio/sfx/name_char_change.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Up held 35 ms; stateChanged=true
+PASS: high-score name character still changes (true)
+[WARNING|7:03:27]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:03:27]: Saving user high scores. 
+Robot key Space held 16 ms; stateChanged=true
+[INFO|7:03:27]: Closing score screen. 
+[INFO|7:03:27]: Starting 448x520 infinite game screen at 60 fps. 
+[WARNING|7:03:27]: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+PASS: Space replays the same mode (true)
+Robot key Escape held 10 ms; stateChanged=true
+[INFO|7:03:29]: Infinite mode ended with a score of 0 
+[INFO|7:03:29]: Closing infinite game screen. 
+[INFO|7:03:29]: Starting 448x520 score screen at 60 fps, with a score of 0, 0 bullets shot and 0 ships destroyed. 
+[INFO|7:03:29]: Loading user high scores. 
+[WARNING|7:03:29]: Failed to play BGM: audio/bgm/music_end_victory.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[WARNING|7:03:31]: Failed to play SFX: audio/sfx/menu_back.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:03:31]: Saving user high scores. 
+Robot key Escape held 16 ms; stateChanged=true
+[INFO|7:03:31]: Closing score screen. 
+[WARNING|7:03:31]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:03:31]: Starting 448x520 title screen at 60 fps. 
+PASS: result Escape returns to title (true)
+[WARNING|7:03:35]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 98 ms; stateChanged=true
+[INFO|7:03:35]: Closing title screen. 
+[INFO|7:03:35]: Starting 448x520 game screen at 60 fps. 
+[INFO|7:03:35]: Initializing 5x4 ship formation in (20,100) 
+[WARNING|7:03:35]: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[WARNING|7:03:37]: Failed to play SFX: audio/sfx/countdown_beep.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[WARNING|7:03:38]: Failed to play SFX: audio/sfx/countdown_beep.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[WARNING|7:03:39]: Failed to play SFX: audio/sfx/countdown_beep.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[WARNING|7:03:40]: Failed to play SFX: audio/sfx/countdown_go.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+PASS: normal start countdown completes before movement test (false)
+PASS: game running in GameScreen
+PASS: FIFO notice starts with First Contact (false)
+Robot key Right held 93 ms; stateChanged=true
+PASS: movement continues while achievement notice is visible (false)
+Robot key Space held 98 ms; stateChanged=true
+PASS: shooting continues while achievement notice is visible (false)
+PASS: second queued notice is Ace Pilot (false)
+PASS: first notice lasts about three seconds: 3012 ms (false)
+PASS: third queued notice is Still Flying (false)
+[INFO|7:03:47]: Stage 1 failed. 
+[INFO|7:03:48]: Screen cleared with a score of 0 
+[INFO|7:03:48]: Closing game screen. 
+[INFO|7:03:48]: Stage 1 failed. Not advancing. 
+[INFO|7:03:48]: Completed run recorded:
+Run ID: 3e4ef423-b943-4b14-a0d6-97c73522079a
+Score: 0
+Enemies defeated: 0
+Active duration: 6063 ms (6.063 s)
+Completion time: 1792134228792 
+[INFO|7:03:48]: Starting 448x520 score screen at 60 fps, with a score of 0, 0 lives remaining, 1 bullets shot and 0 ships destroyed. 
+[INFO|7:03:48]: Loading user high scores. 
+[WARNING|7:03:48]: Failed to play BGM: audio/bgm/music_end_defeat.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+PASS: summary retains three gameplay unlocks plus First Flight (false)
+PASS: one completed run reaches Records (false)
+[WARNING|7:03:50]: Failed to play SFX: audio/sfx/name_cursor_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Right held 100 ms; stateChanged=true
+PASS: high-score name cursor still moves (false)
+[WARNING|7:03:51]: Failed to play SFX: audio/sfx/name_char_change.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Up held 11 ms; stateChanged=true
+PASS: high-score name character still changes (false)
+[WARNING|7:03:52]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:03:52]: Saving user high scores. 
+Robot key Space held 97 ms; stateChanged=true
+[INFO|7:03:52]: Closing score screen. 
+[INFO|7:03:52]: Starting 448x520 game screen at 60 fps. 
+[INFO|7:03:52]: Initializing 5x4 ship formation in (20,100) 
+[WARNING|7:03:52]: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+PASS: Space replays the same mode (false)
+[INFO|7:03:54]: Stage 1 failed. 
+[WARNING|7:03:54]: Failed to play SFX: audio/sfx/countdown_beep.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[WARNING|7:03:55]: Failed to play SFX: audio/sfx/countdown_beep.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:03:56]: Screen cleared with a score of 0 
+[INFO|7:03:56]: Closing game screen. 
+[INFO|7:03:56]: Stage 1 failed. Not advancing. 
+[INFO|7:03:56]: Completed run recorded:
+Run ID: 0607d08e-b027-4ca4-ab75-62107cb3a585
+Score: 0
+Enemies defeated: 0
+Active duration: 0 ms (0.000 s)
+Completion time: 1792134236242 
+[INFO|7:03:56]: Starting 448x520 score screen at 60 fps, with a score of 0, 0 lives remaining, 0 bullets shot and 0 ships destroyed. 
+[INFO|7:03:56]: Loading user high scores. 
+[WARNING|7:03:56]: Failed to play BGM: audio/bgm/music_end_defeat.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[WARNING|7:03:57]: Failed to play SFX: audio/sfx/menu_back.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Escape held 93 ms; stateChanged=true
+[INFO|7:03:57]: Closing score screen. 
+[WARNING|7:03:57]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:03:57]: Starting 448x520 title screen at 60 fps. 
+PASS: result Escape returns to title (false)
+PASS: WAV decodes: music_menu.wav
+PASS: WAV decodes: music_end_defeat.wav
+PASS: WAV decodes: music_end_victory.wav
+PASS: WAV decodes: music_game.wav
+PASS: WAV decodes: menu_select.wav
+PASS: WAV decodes: menu_back.wav
+PASS: WAV decodes: name_cursor_move.wav
+PASS: WAV decodes: menu_move.wav
+PASS: WAV decodes: countdown_beep.wav
+PASS: WAV decodes: name_char_change.wav
+PASS: WAV decodes: item_coin.wav
+PASS: WAV decodes: countdown_go.wav
+Decoded WAV assets: 12; playback/listening remains unverified without an audio device.
+LiveUiReview passed: 40 checks. Synthetic event/lives fixtures; actual Robot keys and screenshots.

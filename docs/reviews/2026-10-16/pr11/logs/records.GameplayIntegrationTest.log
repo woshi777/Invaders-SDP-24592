@@ -1,0 +1,69 @@
+GameplayIntegrationTest passed: 35 checks.
+Oct 16, 2026 6:58:52 AM engine.DrawManager <init>
+INFO: Started loading resources.
+Oct 16, 2026 6:58:52 AM engine.DrawManager <init>
+INFO: Finished loading the sprites.
+Oct 16, 2026 6:58:52 AM engine.DrawManager <init>
+INFO: Finished loading the fonts.
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation <init>
+INFO: Initializing 1x1 ship formation in (20,100)
+Oct 16, 2026 6:58:52 AM audio.AudioManager initialize
+INFO: Audio system initialized.
+Oct 16, 2026 6:58:52 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM screen.GameScreen manageCollisions
+INFO: Enemy shot absorbed by Energy Shield.
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation destroy
+INFO: Destroyed ship in (0,0)
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation destroy
+INFO: Shooters list reduced to 0 members.
+Oct 16, 2026 6:58:52 AM screen.GameScreen manageCollisions
+INFO: Shield item dropped from enemy ship at (224, 150).
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation <init>
+INFO: Initializing 1x1 ship formation in (20,100)
+Oct 16, 2026 6:58:52 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM screen.GameScreen manageCollisions
+INFO: Enemy shot absorbed by Energy Shield.
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation destroy
+INFO: Destroyed ship in (0,0)
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation destroy
+INFO: Shooters list reduced to 0 members.
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation <init>
+INFO: Initializing 1x1 ship formation in (20,100)
+Oct 16, 2026 6:58:52 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM screen.GameScreen manageCollisions
+INFO: Enemy shot absorbed by Energy Shield.
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation destroy
+INFO: Destroyed ship in (0,0)
+Oct 16, 2026 6:58:52 AM entity.EnemyShipFormation destroy
+INFO: Shooters list reduced to 0 members.
+Oct 16, 2026 6:58:52 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM screen.InfiniteGameScreen manageCollisions
+INFO: Hit on player ship, 2 lives remaining.
+Oct 16, 2026 6:58:52 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM audio.AudioManager playSFX
+WARNING: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM engine.FileManager loadHighScores
+INFO: Loading default high scores.
+Oct 16, 2026 6:58:52 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_end_defeat.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM audio.AudioManager playSFX
+WARNING: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM engine.FileManager loadHighScores
+INFO: Loading default high scores.
+Oct 16, 2026 6:58:52 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_end_defeat.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM audio.AudioManager playSFX
+WARNING: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:52 AM engine.FileManager loadHighScores
+INFO: Loading default high scores.
+Oct 16, 2026 6:58:53 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_end_victory.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:53 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.
+Oct 16, 2026 6:58:53 AM audio.AudioManager playBGM
+WARNING: Failed to play BGM: audio/bgm/music_game.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported.

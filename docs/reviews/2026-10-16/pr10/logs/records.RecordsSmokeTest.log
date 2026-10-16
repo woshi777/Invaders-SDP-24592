@@ -1,0 +1,7 @@
+RecordsSmokeTest passed: 92 checks.
+Oct 16, 2026 7:01:27 AM engine.DrawManager <init>
+INFO: Started loading resources.
+Oct 16, 2026 7:01:27 AM engine.DrawManager <init>
+INFO: Finished loading the sprites.
+Oct 16, 2026 7:01:27 AM engine.DrawManager <init>
+INFO: Finished loading the fonts.

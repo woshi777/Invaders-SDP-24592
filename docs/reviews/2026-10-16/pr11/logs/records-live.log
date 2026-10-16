@@ -1,0 +1,119 @@
+Oct 16, 2026 6:58:40 AM java.util.prefs.FileSystemPreferences$1 run
+INFO: Created user preferences directory.
+[INFO|6:58:40]: Audio system initialized. 
+[INFO|6:58:40]: Applied saved audio settings. 
+[INFO|6:58:40]: Started loading resources. 
+[INFO|6:58:40]: Finished loading the sprites. 
+[INFO|6:58:40]: Finished loading the fonts. 
+[WARNING|6:58:40]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|6:58:40]: Starting 448x520 title screen at 60 fps. 
+[WARNING|6:58:43]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 7 ms; stateChanged=true
+Robot key Down held 90 ms; stateChanged=true
+[WARNING|6:58:44]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+PASS: menu selects Records route 9; actual=9
+[WARNING|6:58:45]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 8 ms; stateChanged=true
+[INFO|6:58:45]: Closing title screen. 
+PASS: Records opens on Run Records
+Robot key Right held 20 ms; stateChanged=true
+PASS: Right opens Achievements tab
+Robot key Left held 5 ms; stateChanged=true
+PASS: Left returns to Run Records
+Robot key Escape held 20 ms; stateChanged=true
+[WARNING|6:58:48]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|6:58:48]: Starting 448x520 title screen at 60 fps. 
+PASS: Escape returns from Records to menu
+[WARNING|6:58:50]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 6 ms; stateChanged=true
+[WARNING|6:58:51]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 27 ms; stateChanged=true
+[WARNING|6:58:52]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 94 ms; stateChanged=true
+[INFO|6:58:52]: Closing title screen. 
+Robot key Space held 11 ms; stateChanged=true
+[WARNING|6:58:54]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|6:58:54]: Starting 448x520 title screen at 60 fps. 
+PASS: Space returns from Records to menu
+[WARNING|6:58:57]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 11 ms; stateChanged=true
+[WARNING|6:58:58]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 10 ms; stateChanged=true
+[INFO|6:58:58]: Closing title screen. 
+[INFO|6:58:58]: Loading default high scores. 
+[WARNING|6:58:58]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|6:58:58]: Starting 448x520 high score screen at 60 fps. 
+[WARNING|6:59:00]: Failed to play SFX: audio/sfx/menu_back.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 16 ms; stateChanged=true
+[INFO|6:59:00]: Closing high score screen. 
+[WARNING|6:59:00]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|6:59:00]: Starting 448x520 title screen at 60 fps. 
+PASS: legacy High scores opens and returns
+[WARNING|6:59:02]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 93 ms; stateChanged=true
+Robot key Down held 99 ms; stateChanged=true
+[WARNING|6:59:03]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[WARNING|6:59:04]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 109 ms; stateChanged=true
+[WARNING|6:59:05]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 97 ms; stateChanged=true
+[INFO|6:59:05]: Closing title screen. 
+Robot key Space held 110 ms; stateChanged=true
+[INFO|6:59:10]: Saved BGM volume 55 
+Robot key Right held 21 ms; stateChanged=true
+[WARNING|6:59:10]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+PASS: audio settings Right increases BGM volume
+[INFO|6:59:11]: Saved BGM volume 50 
+[WARNING|6:59:11]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Left held 94 ms; stateChanged=true
+PASS: audio settings Left restores BGM volume
+[WARNING|6:59:12]: Failed to play SFX: audio/sfx/menu_back.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Escape held 91 ms; stateChanged=true
+[WARNING|6:59:14]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 94 ms; stateChanged=true
+Robot key Space held 96 ms; stateChanged=true
+Robot key Space held 93 ms; stateChanged=true
+[WARNING|6:59:18]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key J held 93 ms; stateChanged=true
+PASS: controls setting accepts a new left-movement key
+Robot key Space held 15 ms; stateChanged=true
+[WARNING|6:59:20]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Left held 93 ms; stateChanged=true
+PASS: controls setting restores original left key
+Robot key Escape held 10 ms; stateChanged=true
+[WARNING|6:59:23]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 5 ms; stateChanged=true
+[WARNING|6:59:24]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 93 ms; stateChanged=true
+Robot key Space held 92 ms; stateChanged=true
+Robot key Escape held 93 ms; stateChanged=true
+PASS: all three Settings subpages open and return
+Robot key Escape held 98 ms; stateChanged=true
+[WARNING|6:59:30]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|6:59:30]: Starting 448x520 title screen at 60 fps. 
+[WARNING|6:59:32]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 15 ms; stateChanged=true
+[WARNING|6:59:33]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 94 ms; stateChanged=true
+[WARNING|6:59:34]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 16 ms; stateChanged=true
+[INFO|6:59:34]: Closing title screen. 
+Robot key Right held 10 ms; stateChanged=true
+Robot key Escape held 108 ms; stateChanged=true
+[WARNING|6:59:37]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|6:59:37]: Starting 448x520 title screen at 60 fps. 
+PASS: empty Records and locked Achievements render and return
+PASS: WAV decodes: music_end_defeat.wav
+PASS: WAV decodes: music_end_victory.wav
+PASS: WAV decodes: music_game.wav
+PASS: WAV decodes: music_menu.wav
+PASS: WAV decodes: countdown_beep.wav
+PASS: WAV decodes: countdown_go.wav
+PASS: WAV decodes: item_coin.wav
+PASS: WAV decodes: menu_back.wav
+PASS: WAV decodes: menu_move.wav
+PASS: WAV decodes: menu_select.wav
+PASS: WAV decodes: name_char_change.wav
+PASS: WAV decodes: name_cursor_move.wav
+Decoded WAV assets: 12; playback/listening remains unverified without an audio device.
+LiveUiReview passed: 25 checks. Synthetic event/lives fixtures; actual Robot keys and screenshots.

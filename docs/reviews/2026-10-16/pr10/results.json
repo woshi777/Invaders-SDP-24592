@@ -1,0 +1,31 @@
+{
+  "sha": "7560acd276bbbff602c8de42aefc0240e62444a9",
+  "source_count": 59,
+  "suites": [
+    {
+      "suite": "records.RecordsSmokeTest",
+      "exit_code": 0,
+      "seconds": 1.506,
+      "summary": [
+        "RecordsSmokeTest passed: 92 checks."
+      ]
+    },
+    {
+      "suite": "records.GameplayIntegrationTest",
+      "exit_code": 0,
+      "seconds": 0.541,
+      "summary": [
+        "GameplayIntegrationTest passed: 18 checks."
+      ]
+    },
+    {
+      "suite": "screen.GameScreenWavesTest",
+      "exit_code": 0,
+      "seconds": 0.389,
+      "summary": [
+        "GameScreen wave list checks passed."
+      ]
+    }
+  ],
+  "portability_workaround": "Local java.exe alias for the unchanged shutdown probe"
+}

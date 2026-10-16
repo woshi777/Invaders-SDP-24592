@@ -1,0 +1,33 @@
+Oct 16, 2026 7:02:02 AM java.util.prefs.FileSystemPreferences$1 run
+INFO: Created user preferences directory.
+[INFO|7:02:02]: Audio system initialized. 
+[INFO|7:02:02]: Applied saved audio settings. 
+[INFO|7:02:02]: Started loading resources. 
+[INFO|7:02:02]: Finished loading the sprites. 
+[INFO|7:02:03]: Finished loading the fonts. 
+[WARNING|7:02:03]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:02:03]: Starting 448x520 title screen at 60 fps. 
+[WARNING|7:02:04]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 12 ms; stateChanged=true
+[WARNING|7:02:05]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 94 ms; stateChanged=true
+[WARNING|7:02:06]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 100 ms; stateChanged=true
+[INFO|7:02:06]: Closing title screen. 
+Robot key Right held 90 ms; stateChanged=true
+Robot key Escape held 95 ms; stateChanged=true
+[WARNING|7:02:09]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:02:09]: Starting 448x520 title screen at 60 fps. 
+[WARNING|7:02:12]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 5 ms; stateChanged=true
+[WARNING|7:02:13]: Failed to play SFX: audio/sfx/menu_move.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Down held 99 ms; stateChanged=true
+[WARNING|7:02:14]: Failed to play SFX: audio/sfx/menu_select.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+Robot key Space held 16 ms; stateChanged=true
+[INFO|7:02:14]: Closing title screen. 
+Robot key Right held 161 ms; stateChanged=true
+Robot key Escape held 10 ms; stateChanged=true
+[WARNING|7:02:18]: Failed to play BGM: audio/bgm/music_menu.wav / java.lang.IllegalArgumentException: No line matching interface Clip supporting format PCM_SIGNED unknown sample rate, 16 bit, stereo, 4 bytes/frame, big-endian is supported. 
+[INFO|7:02:18]: Starting 448x520 title screen at 60 fps. 
+PASS: four complete Records screenshots captured using software X11 rendering
+RecordsVisualCapture passed.
